@@ -133,6 +133,18 @@ The project will generate:
 - magnetization plots in `figures/`;
 - time-dependent curves of local and average magnetization.
 
+## Example Results
+
+The simulation generates time-dependent magnetization curves for a disordered transverse-field Ising chain.
+
+### Average Magnetization
+
+![Average magnetization](figures/average_magnetization.png)
+
+### Local Magnetization
+
+![Local magnetization](figures/local_magnetization.png)
+
 ## Status
 
 This repository is under active development.
